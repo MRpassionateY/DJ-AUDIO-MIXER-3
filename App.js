@@ -186,7 +186,7 @@ export default class App extends React.Component {
    return(
  
      <View style={styles.mainContainer}>
-        <Text style={styles.text}>🎧 DJ WhiteHat 🎧</Text>
+        <Text style={styles.text}>🎧 DJ Soumya 🎧</Text>
         <SoundButton/>
         <SoundButton1/>
         <SoundButton2/>
